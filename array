@@ -1,3 +1,5 @@
+//Searchin in an unsorted array//
+
 #include<iostream>
 using namespace std;
 int searchNumber(int arr[],int n,int k){
